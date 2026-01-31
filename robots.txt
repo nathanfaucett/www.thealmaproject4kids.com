@@ -1,4 +1,4 @@
-Sitemap: http://www.thealmaproject4kids.com/sitemap.xml
+Sitemap: https://nathanfaucett.github.io/www.thealmaproject4kids.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /
